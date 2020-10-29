@@ -1,7 +1,7 @@
 # ATtiny13-433MHz-Receiver-Transmitter
- Simple 433mhz or 315mhz remote switch using ATTINY13 with MicroCore and Arduino IDE by MCUdude.
+ Simple 433mhz or 315mhz remote switch using ATTINY13 with Arduino IDE and MicroCore by MCUdude.
  
-  source of protocol implementation is http://skproj.ru/otkryt-shlagbaum-came/
+  Source code of protocol implementation is from http://skproj.ru/otkryt-shlagbaum-came/
   
   Protocol used is known as protocol 12 from RCSwitch library:
   
